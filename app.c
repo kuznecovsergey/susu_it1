@@ -2,7 +2,7 @@
 
 int main (void)
 {
-    printf ("Hello111!\n"); // Вывод строки
+    printf ("Hello111!\n");
     getchar ();
     return 0;
 }
